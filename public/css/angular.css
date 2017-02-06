@@ -1,0 +1,54 @@
+
+body {
+	background-color: gray;
+
+	
+}
+#div2{
+	border-style: solid
+
+	margin-top:70px;
+
+}
+#img {
+
+	float:right;
+	
+
+	margin-top:60px;
+}
+
+path {
+	stroke: blue;
+	stroke-width: 2;
+	fill: none;
+}
+
+line {
+	stroke: gray;
+}
+
+.xGrids {
+	stroke: gray;
+}
+
+.yGrids {
+	stroke: gray;
+}
+
+text {
+	font-family: Verdana;
+	font-size: 9pt;
+}
+header h1 span.green{
+	color:#61a64f;
+}
+
+header h1 span.red{
+	color:#eb263a;
+}
+
+header h2{
+	font-size:16px;
+	color:#819fa8;
+}
